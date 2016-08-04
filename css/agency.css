@@ -1,6 +1,7 @@
 /*Custom CSS for Toph's Profile*/
 .picBtn {
   position: relative;
+  background-color: #eeeeee;
 }
 
 .picBtn:hover {
@@ -10,8 +11,8 @@
 }
 
 .picBtn:active {
-  margin-left: 10px;
-  margin-top: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
 }
 
 /*!
@@ -545,6 +546,7 @@ section h3.section-subheading {
   }
   .timeline > li .timeline-image h4 {
     margin-top: 40px;
+    padding: 0px 10px;
   }
   .timeline > li.timeline-inverted > .timeline-panel {
     padding: 0 100px 20px 20px;

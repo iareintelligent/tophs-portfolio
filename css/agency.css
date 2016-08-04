@@ -1,14 +1,3 @@
-/*Custom CSS for Toph's Profile*/
-.picBtn {
-  position: relative;
-  background-color: #fff;
-}
-
-.picBtn:active {
-  padding-left: 5px;
-  padding-top: 5px;
-}
-
 /*!
  * Start Bootstrap - Agency v1.1.1 (http://startbootstrap.com/template-overviews/agency)
  * Copyright 2013-2016 Start Bootstrap
@@ -540,7 +529,6 @@ section h3.section-subheading {
   }
   .timeline > li .timeline-image h4 {
     margin-top: 40px;
-    padding: 0px 10px;
   }
   .timeline > li.timeline-inverted > .timeline-panel {
     padding: 0 100px 20px 20px;

@@ -1,4 +1,4 @@
-.bg-light-gray,.picBtn{background-color:#eee}.btn-primary.active,.btn-primary:active,.btn-xl.active,.btn-xl:active,.open .dropdown-toggle.btn-primary,.open .dropdown-toggle.btn-xl{background-image:none}.picBtn{position:relative}.picBtn:hover{-moz-box-shadow:0 15px 25px #ccc;-webkit-box-shadow:0 15px 25px #ccc;box-shadow:0 15px 25px #ccc}.picBtn:active{padding-left:10px;padding-top:10px}/*!
+.bg-light-gray,.picBtn{background-color:#eee}.btn-primary.active,.btn-primary:active,.btn-xl.active,.btn-xl:active,.open .dropdown-toggle.btn-primary,.open .dropdown-toggle.btn-xl{background-image:none}.picBtn{position:relative}@media(min-width:768px){.navbar-brand{margin-left:-30px}}@media(min-width:1200px){.navbar-brand{margin-left:-60px}}.picBtn:hover{-moz-box-shadow:0 15px 25px #ccc;-webkit-box-shadow:0 15px 25px #ccc;box-shadow:0 15px 25px #ccc}.picBtn:active{padding-left:10px;padding-top:10px}/*!
  * Start Bootstrap - Agency v1.1.1 (http://startbootstrap.com/template-overviews/agency)
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
